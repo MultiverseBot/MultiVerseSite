@@ -1,0 +1,18 @@
+.centerprofilelogo {
+    display: block;
+    width: auto;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.headinglogoname {
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+   
+}
+.headinglogodescription {
+    color: white;
+    text-align: center;
+    
+}
