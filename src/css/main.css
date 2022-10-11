@@ -13,6 +13,8 @@ body {
     font-size: 16px;
 }
 
+
+
 .nav-link {
      font-size: 14px !important;
      background: transparent !important;
@@ -55,7 +57,7 @@ body {
     background-color: #AD91FF!important
 }
 .btn-secondary {
-    background-color: #2C2F33 !important
+    background-color: #ad91ff93 !important
 }
 .heading {
     padding: 160px 50px !important;
@@ -73,6 +75,7 @@ body {
     background-repeat: no-repeat;
     width: auto;
     height: fit-content;
+    
 }
 
 .background1 {
@@ -214,5 +217,35 @@ color: rgba(255, 255, 255, 0.46) !important
 .footer .bot-footer {
     text-align: center !important;
     color: #a2a8bd !important; 
+    
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    
+        
+        
+        
     
 }
